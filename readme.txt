@@ -1,0 +1,56 @@
+=== Plugin Name ===
+Contributors: Kalameh Bozozrgan 
+Donate link: http://example.com/
+Tags: kalam, bozorgan, wordpress, kamaleh bozorgan, ,,
+Requires at least: 2.0.2
+Tested up to: 2.1
+Stable tag: 1.0
+
+View Persian sentences at the top of the administration
+
+== Description ==
+
+This plugin, sentences from the world's largest and most popular people May have been translated into Persian, the top part shows the management
+
+A few notes about the sections above:
+
+*   All sentences have been translated into Persian.
+
+
+  
+== Installation ==
+
+
+1. Upload `kalame-bozorgan.php` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+
+= It requires changes in the theme ? =
+
+No.
+== Screenshots ==
+
+1.  `/tags/1/1.jpg
+
+
+
+== Changelog ==
+
+= 1.0 =
+* The initial version was created plugin
+
+
+== Upgrade Notice ==
+
+= 1.0 =
+You must upgrade to fix the bug.
+
+== Arbitrary section ==
+  
+
+== A brief Markdown Example ==
+
+    
+
+`<?php code(); // goes in backticks ?>`
