@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Kalameh Bozozrgan ===
 Contributors: Kalameh Bozozrgan 
 Donate link: http://example.com/
 Tags: kalam, bozorgan, wordpress, kamaleh bozorgan, ,,
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 3.0.1
 Stable tag: 1.0
 
 View Persian sentences at the top of the administration
