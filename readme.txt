@@ -1,5 +1,5 @@
 === Kalameh Bozozrgan ===
-Contributors: Kalameh Bozozrgan 
+Contributors: AliReza Ameri
 Donate link: http://example.com/
 Tags: kalam, bozorgan, wordpress, kamaleh bozorgan, ,,
 Requires at least: 2.0.2
