@@ -31,7 +31,7 @@ A few notes about the sections above:
 No.
 == Screenshots ==
 
-1.  `/tags/1/1.jpg
+1.  /tags/1/1.jpg
 
 
 
@@ -45,12 +45,3 @@ No.
 
 = 1.0 =
 You must upgrade to fix the bug.
-
-== Arbitrary section ==
-  
-
-== A brief Markdown Example ==
-
-    
-
-`<?php code(); // goes in backticks ?>`
