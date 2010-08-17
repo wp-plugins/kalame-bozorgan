@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Kalameh Bozorgan
-Plugin URI: http://dkjicsow.com
+Plugin URI: http://www.dkjicsow.com/1389/05/plugin-kalameh-bozorgan/
 Description: اين افزونه جملات بزرگان را در بالاي بخش مديريت قرار مي دهد ، در نگارش بعدي فقط نقل قول هاي بزرگان ايران خواهد بود
 Author: AliReza Ameri ( Dkjicsow )
 Version: 1,0,0
