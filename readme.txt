@@ -1,7 +1,7 @@
 === Kalameh Bozozrgan ===
 Contributors: dkjicsow
 Donate link: http://example.com/
-Tags: kalam, bozorgan, wordpress, kamaleh bozorgan, dkjicsow, alireza, ameri, farsi, persian, sweetbane,  ,,,,
+Tags: kalam, bozorgan, wordpress, kamaleh bozorgan, admin, dkjicsow, alireza, ameri, farsi, persian, sweetbane,  ,,,,
 Requires at least: 2.0.2
 Tested up to: 3.0.1
 Stable tag: 1.0
