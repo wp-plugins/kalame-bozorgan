@@ -45,8 +45,5 @@ No.
 
 == Upgrade Notice ==
 
-= 1.0 =
-You must upgrade to fix the bug.
-
 = 1.5 =
-Not compatible upgrade for sure
+You have to upgrade
