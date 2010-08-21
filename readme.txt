@@ -40,8 +40,13 @@ No.
 = 1.0 =
 * The initial version was created plugin
 
+= 1.5 =
+*In this version of the text overlap problem on Hello Dolly plugin disappeared
 
 == Upgrade Notice ==
 
 = 1.0 =
 You must upgrade to fix the bug.
+
+= 1.5 =
+Not compatible upgrade for sure
