@@ -242,7 +242,7 @@ add_action('admin_footer', 'kalameh_bozorgan');
 
 function bozorgan_css() {
 	
-	$x = ( is_rtl() ) ? 'left' : 'right';
+	$x = ( is_rtl() ) ? 'right' : 'left';
 
 	echo "
 	<style type='text/css'>
@@ -251,7 +251,7 @@ function bozorgan_css() {
 		top: 4.5em;
 		margin: 0;
 		padding: 0;
-		$x: 215px;
+		$x: 125px;
 		font-size: 11px;
 	}
 	</style>
